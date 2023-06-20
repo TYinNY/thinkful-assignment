@@ -25,6 +25,7 @@ header {
 h1 {
   font-size: 28px;
   margin-bottom: 10px;
+  height: 38px
 }
 
 main {
@@ -62,6 +63,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 footer {
   margin-top: 20px;
